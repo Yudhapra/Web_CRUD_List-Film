@@ -135,7 +135,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		Instagram</a>
 		
 		<!-- button facebook menggunakan class button custom 'btn-n' yang ada pada element style di atas -->
-		<a href="https://facebook.com/yudha.prasetyo.23" target="_blank" rel="noopener noreferrer" class="btn btn-n" style="font-size: 14px; font-weight: bold;">
+		<a href="https://facebook.com/" target="_blank" rel="noopener noreferrer" class="btn btn-n" style="font-size: 14px; font-weight: bold;">
 		<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-facebook" viewBox="0 0 18 18">
 		<path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
 		</svg>
