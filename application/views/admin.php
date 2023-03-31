@@ -109,7 +109,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<code style="margin-top: 2px; margin-left: 195px; margin-right: 195px;"><b>Yudha Prasetyo</b></code>
 
 		<h6 style="margin-top: -6px; margin-bottom: 0px; text-align: center; font-weight: bold;">NIM &thinsp;&thinsp;&thinsp;:</h6>
-		<code style="margin-top: 2px; margin-left: 195px; margin-right: 195px;"><b>19416255201129</b></code>
+		<code style="margin-top: 2px; margin-left: 195px; margin-right: 195px;"><b>xxx1129xxx</b></code>
 		
 		<h6 style="margin-top: -6px; margin-bottom: 0px; text-align: center; font-weight: bold;">Prodi :</h6>
 		<code style="margin-top: 2px; margin-left: 170px; margin-right: 170px;"><b>Teknik Informatika</b></code>
